@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![ ](https://github-readme-stats.vercel.app/api?username=hiszm&count_private=true)
+![ ](https://github-readme-stats.vercel.app/api?username=Marmot1024&count_private=true)
 
 <!--
-**Marmot/Marmot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Marmot1024/Marmot1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
